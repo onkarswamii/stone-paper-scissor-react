@@ -1,16 +1,26 @@
-# React + Vite
+# Stone Paper Scissor Game (React Project)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Description
+This is a simple Stone Paper Scissor game built using React. In this game, the player plays against the computer. The computer randomly selects Rock, Paper, or Scissor and the winner is decided based on game rules.
 
-Currently, two official plugins are available:
+This project was created to learn basic React concepts like state management, event handling, and conditional rendering.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
+• Player vs Computer gameplay  
+• Score tracking  
+• Round counter  
+• Winner display after every move  
+• Reset game button  
+• Move history tracking  
+• Win streak tracker  
+• Simple emoji UI  
 
-## React Compiler
+## Technologies Used
+• React  
+• JavaScript  
+• Vite  
+• CSS  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## How to Run the Project
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Install dependencies:
